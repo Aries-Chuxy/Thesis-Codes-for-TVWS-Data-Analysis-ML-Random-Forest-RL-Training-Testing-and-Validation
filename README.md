@@ -4,8 +4,8 @@
 This repository contains the data processing, preparatory, and spatial-spectral analysis scripts developed for the Enugu Metropolis spectrum research study. The codebase is organized into four primary groups handling telemetry parsing, data cleaning, spatial-spectral analysis, and dataset generation.
 
 ## Zenodo Archival & DOI Information
-* **Zenodo DOI:** https://doi.org/10.5281/zenodo.XXXXXXX *(Replace XXXXXXX with your actual DOI after release)*
-* **Repository Version:** v1.0.0
+* **Zenodo DOI:** https://doi.org/10.5281/zenodo.24294401
+* **Repository Version:** v1.0.1
 * **Citation:** If using or referencing these scripts, please cite the Zenodo dataset release using the DOI provided above.
 
 ## Codebase Organization
