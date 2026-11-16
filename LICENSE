@@ -1,0 +1,9 @@
+Thesis_Codes_Zenodo/   <-- ROOT FOLDER
+│
+├── Group_1_Preparatory_Scripts/
+├── Group_1_Preparatory_Scripts_2_1_Million_Data_Analysis_Scripts/
+├── Group_3_Random_Forest_Classifier_Model_Scripts/
+├── Group_4_Reinforcement_Learning_Model_Script/
+│
+├── LICENSE              <-- Covers all 4 folders automatically
+└── README.md            <-- Documents all 4 folders
